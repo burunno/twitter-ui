@@ -24,7 +24,7 @@ const ProfilePage: React.FC = () => {
         <h1>buruno</h1>
         <h2>@burunocarv_ </h2>
 
-        <p>dev javacript and functional programming</p>
+        <p>dev javascript and functional programming</p>
 
         <ul>
           <li>
