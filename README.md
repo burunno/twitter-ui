@@ -1,6 +1,6 @@
 ## Twitter Clone UI
 
-Após realizar o clone do repo executar o comando:
+Install project dependencies and run
 
 ```
 yarn & yarn start
